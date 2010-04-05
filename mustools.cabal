@@ -1,0 +1,15 @@
+name:            mustools
+version:         0.1
+license:         BSD3
+license-file:    LICENSE
+author:          dan corson <danl@alum.mit.edu>
+synopsis:        <syn>
+build-type:      Simple
+build-depends:   base, haskell98
+
+executable:      mustools
+main-is:         Main.hs
+hs-source-dirs:  src
+
+exposed-modules: mustools
+hs-source-dirs:  src
